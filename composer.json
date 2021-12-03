@@ -1,6 +1,6 @@
 {
-  "name": "runcmf/runtracy",
-  "description": "Slim Framework Debugger",
+  "name": "andrerampanelli/runtracy",
+  "description": "A fork of runcmf/runtracy",
   "license": "Apache-2.0",
   "type": "library",
   "keywords": [
@@ -21,9 +21,8 @@
   ],
   "authors": [
     {
-      "name": "Vladimir",
-      "email": "1f7.wizard@gmail.com",
-      "homepage": "http://runcmf.ru"
+      "name": "Andre Vitor Rampanelli  ",
+      "email": "andrerampanelli1@gmail.com"
     }
   ],
   "require": {
